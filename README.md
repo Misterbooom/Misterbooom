@@ -35,6 +35,115 @@ ESP32-S3 desktop display project built with LVGL and BLE/serial telemetry.
 ## Development Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2042%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2020%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 72 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+🌆 Daytime                258 commits         ███████████░░░░░░░░░░░░░░   44.25 % 
+🌃 Evening                256 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
+🌙 Night                  28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  53 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Wednesday                132 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Friday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Sunday                   133 commits         ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Warsaw
+
+💬 Programming Languages: 
+Other                    24 hrs 45 mins      ████████████░░░░░░░░░░░░░   48.95 % 
+C#                       19 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
+Text                     4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+textmate                 1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Markdown                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+
+🔥 Editors: 
+Firefox                  26 hrs 34 mins      █████████████░░░░░░░░░░░░   52.52 % 
+Rider                    24 hrs              ████████████░░░░░░░░░░░░░   47.47 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🐱‍💻 Projects: 
+BifyLang                 35 hrs 52 mins      ██████████████████░░░░░░░   70.91 % 
+bify-lang                11 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+website                  2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Misterbooom              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Round-Display            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+💻 Operating System: 
+Linux                    33 hrs 15 mins      ████████████████░░░░░░░░░   65.73 % 
+Windows                  17 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   34.27 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 10 mins (24.06%)
+
+✍️ 6,236 lines written by AI, 4,919 lines written by hand (55.9% AI-written)
+
+🔤 9,557,648 Input Tokens, 1,078,249 Output Tokens
+
+💵 $32.05 Estimated AI Cost This Week
+
+🧠 25 AI Sessions, 325 AI Prompts
+
+Gemini                   6,236 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 55.9% of written lines came from AI
+📝 Concise Prompter — average 100 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🔍 Hands-On Reviewer — 61.31% of changed lines were hand-edited
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+C++                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+TypeScript               2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Misterbooom/Misterbooom/main/assets/bar_graph.png)
+
+
+ Last Updated on 19/11/2026 23:13:22 UTC
 <!--END_SECTION:waka-->
 
 ## Connect
