@@ -7,4 +7,4 @@ IT student from Gdańsk. Writing compilers, embedded firmware.
 - **[Round-Display](https://github.com/Misterbooom/Round-Display)**: ESP32-S3 desktop display with LVGL and BLE/serial telemetry
 
 ### Stack
-C#, C++, C, TypeScript, .NET, LLVM, Linux, Docker, ESP32.
+C#, C++. .NET, LLVM, Linux, Docker, ESP32.
