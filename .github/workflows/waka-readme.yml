@@ -18,6 +18,6 @@ jobs:
 
       - name: Profile Readme Development Stats
         uses: anmol098/waka-readme-stats@v5
-        env:
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          INPUT_WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
