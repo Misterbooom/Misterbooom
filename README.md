@@ -1,51 +1,29 @@
-# Artur Semenets (`Misterbooom`)
+# Hi, I'm Artur
 
-**IT student · Gdańsk, Poland**  
-Building compilers, embedded firmware, and low-level software.
+I'm an IT student in Gdańsk, Poland, and I like working close to the metal: compilers, firmware, and the low-level tooling around them.
 
-## About
+Right now most of my time goes into two projects:
 
-- Writing a compiled object-oriented language in C# with LLVM and a C runtime
-- Developing ESP32-S3 hardware projects with LVGL and BLE/serial telemetry
-- Interested in systems programming, compiler internals, embedded systems, and Linux tooling
+- **[BifyLang](https://github.com/Misterbooom/BifyLang)**: a compiled, object-oriented language I'm building from scratch. The compiler is written in C#, generates native code through LLVM, and ships with a runtime written in C.
+- **[Round-Display](https://github.com/Misterbooom/Round-Display)**: a round desktop display powered by an ESP32-S3. It runs an LVGL interface and receives live telemetry over BLE or serial.
 
-## Tech Stack
+When I'm not working on those, I'm usually in Linux digging into systems programming and compiler internals.
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LLVM](https://img.shields.io/badge/LLVM-262D3D?style=for-the-badge&logo=llvm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+## What I work with
 
-## Featured Projects
+**Languages:** C#, C, C++  
+**Tools & platforms:** .NET, LLVM, ESP32, LVGL, Linux, Docker
 
-### [BifyLang](https://github.com/Misterbooom/BifyLang)
-A compiled object-oriented programming language built with C#, LLVM, and a C runtime.
-
-**Focus:** compiler design · LLVM IR · language runtime · native code generation
-
-### [Round-Display](https://github.com/Misterbooom/Round-Display)
-ESP32-S3 desktop display project built with LVGL and BLE/serial telemetry.
-
-**Focus:** embedded firmware · LVGL UI · ESP32-S3 · wireless and serial communication
-
-## Development Stats
+## What I've been up to
 
 <!--START_SECTION:waka-->
 
-```txt
-Other            24 hrs 45 mins        ████████████▒░░░░░░░░░░░░   48.95 %
-C#               19 hrs 3 mins         █████████▒░░░░░░░░░░░░░░░   37.67 %
-Text             4 hrs 25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-textmate         1 hr 2 mins           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Markdown         28 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-```
+![Development Stats](./assets/waka-stats.svg)
 
 <!--END_SECTION:waka-->
 
-## Connect
+<sub>Updated daily from WakaTime and GitHub.</sub>
 
-- GitHub: [@Misterbooom](https://github.com/Misterbooom)
+## Say hi
+
+If you're into compilers or embedded work, or you just want to talk shop, open an issue on any of my repos or find me on GitHub at [@Misterbooom](https://github.com/Misterbooom).
