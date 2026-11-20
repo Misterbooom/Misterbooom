@@ -38,20 +38,58 @@
   <rect x="0.5" y="0.5" width="799" height="279" rx="10" class="card" />
 
   <text x="28" y="38" class="kpi-title">TOTAL CODED</text>
-  <text x="28" y="64" class="kpi-value">Awaiting first run</text>
+  <text x="28" y="64" class="kpi-value">197 hrs 31 mins</text>
 
   <text x="300" y="38" class="kpi-title">COMMITS (7D / 1Y)</text>
-  <text x="300" y="64" class="kpi-value mono">—</text>
+  <text x="300" y="64" class="kpi-value mono">41 / 70</text>
 
   <text x="560" y="38" class="kpi-title">PRIMARY IDE</text>
-  <text x="560" y="64" class="kpi-value">—</text>
+  <text x="560" y="64" class="kpi-value">Firefox</text>
 
   <line x1="28" y1="88" x2="772" y2="88" class="divider" />
   <line x1="420" y1="106" x2="420" y2="254" class="divider" />
 
   <text x="28" y="114" class="kpi-title">PROJECTS (7D)</text>
-  <text x="28" y="146" class="muted" font-size="13">No project activity</text>
+  <text x="28" y="140" class="label" font-size="13">BifyLang</text>
+  <text x="338" y="140" text-anchor="end" class="mono muted" font-size="12">35 hrs 52 mins</text>
+  <text x="392" y="140" text-anchor="end" class="mono label" font-size="12">70.9%</text>
+  <rect x="28" y="146" width="364" height="2" rx="1" class="track" />
+  <rect x="28" y="146" width="258.1" height="2" rx="1" class="accent" />
+  <text x="28" y="166" class="label" font-size="13">bify-lang</text>
+  <text x="338" y="166" text-anchor="end" class="mono muted" font-size="12">11 hrs 17 mins</text>
+  <text x="392" y="166" text-anchor="end" class="mono label" font-size="12">22.3%</text>
+  <rect x="28" y="172" width="364" height="2" rx="1" class="track" />
+  <rect x="28" y="172" width="81.3" height="2" rx="1" class="accent" />
+  <text x="28" y="192" class="label" font-size="13">website</text>
+  <text x="338" y="192" text-anchor="end" class="mono muted" font-size="12">2 hrs 42 mins</text>
+  <text x="392" y="192" text-anchor="end" class="mono label" font-size="12">5.4%</text>
+  <rect x="28" y="198" width="364" height="2" rx="1" class="track" />
+  <rect x="28" y="198" width="19.5" height="2" rx="1" class="accent" />
+  <text x="28" y="218" class="label" font-size="13">Misterbooom</text>
+  <text x="338" y="218" text-anchor="end" class="mono muted" font-size="12">15 mins</text>
+  <text x="392" y="218" text-anchor="end" class="mono label" font-size="12">0.5%</text>
+  <rect x="28" y="224" width="364" height="2" rx="1" class="track" />
+  <rect x="28" y="224" width="2.0" height="2" rx="1" class="accent" />
+  <text x="28" y="244" class="label" font-size="13">Round-Display</text>
+  <text x="338" y="244" text-anchor="end" class="mono muted" font-size="12">11 mins</text>
+  <text x="392" y="244" text-anchor="end" class="mono label" font-size="12">0.4%</text>
+  <rect x="28" y="250" width="364" height="2" rx="1" class="track" />
+  <rect x="28" y="250" width="2.0" height="2" rx="1" class="accent" />
 
   <text x="448" y="114" class="kpi-title">EDITORS (7D)</text>
-  <text x="448" y="146" class="muted" font-size="13">No editor activity</text>
+  <text x="448" y="140" class="label" font-size="13">Firefox</text>
+  <text x="718" y="140" text-anchor="end" class="mono muted" font-size="12">26 hrs 34 mins</text>
+  <text x="772" y="140" text-anchor="end" class="mono label" font-size="12">52.5%</text>
+  <rect x="448" y="146" width="324" height="2" rx="1" class="track" />
+  <rect x="448" y="146" width="170.2" height="2" rx="1" class="accent" />
+  <text x="448" y="166" class="label" font-size="13">Rider</text>
+  <text x="718" y="166" text-anchor="end" class="mono muted" font-size="12">24 hrs</text>
+  <text x="772" y="166" text-anchor="end" class="mono label" font-size="12">47.5%</text>
+  <rect x="448" y="172" width="324" height="2" rx="1" class="track" />
+  <rect x="448" y="172" width="153.8" height="2" rx="1" class="accent" />
+  <text x="448" y="192" class="label" font-size="13">Antigravity Des…</text>
+  <text x="718" y="192" text-anchor="end" class="mono muted" font-size="12">0 secs</text>
+  <text x="772" y="192" text-anchor="end" class="mono label" font-size="12">0.0%</text>
+  <rect x="448" y="198" width="324" height="2" rx="1" class="track" />
+  <rect x="448" y="198" width="2.0" height="2" rx="1" class="accent" />
 </svg>
