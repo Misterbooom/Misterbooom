@@ -44,47 +44,47 @@
   <text x="300" y="64" class="kpi-value mono">36 / 70</text>
 
   <text x="560" y="38" class="kpi-title">PRIMARY IDE</text>
-  <text x="560" y="64" class="kpi-value">Firefox</text>
+  <text x="560" y="64" class="kpi-value">Rider</text>
 
   <line x1="28" y1="88" x2="772" y2="88" class="divider" />
   <line x1="420" y1="106" x2="420" y2="254" class="divider" />
 
   <text x="28" y="114" class="kpi-title">PROJECTS (7D)</text>
   <text x="28" y="140" class="label" font-size="13">BifyLang</text>
-  <text x="338" y="140" text-anchor="end" class="mono muted" font-size="12">17 hrs 54 mins</text>
-  <text x="392" y="140" text-anchor="end" class="mono label" font-size="12">65.2%</text>
+  <text x="338" y="140" text-anchor="end" class="mono muted" font-size="12">19 hrs 39 mins</text>
+  <text x="392" y="140" text-anchor="end" class="mono label" font-size="12">70.9%</text>
   <rect x="28" y="146" width="364" height="2" rx="1" class="track" />
-  <rect x="28" y="146" width="237.4" height="2" rx="1" class="accent" />
+  <rect x="28" y="146" width="258.2" height="2" rx="1" class="accent" />
   <text x="28" y="166" class="label" font-size="13">bify-lang</text>
-  <text x="338" y="166" text-anchor="end" class="mono muted" font-size="12">8 hrs 43 mins</text>
-  <text x="392" y="166" text-anchor="end" class="mono label" font-size="12">31.8%</text>
+  <text x="338" y="166" text-anchor="end" class="mono muted" font-size="12">5 hrs 32 mins</text>
+  <text x="392" y="166" text-anchor="end" class="mono label" font-size="12">20.0%</text>
   <rect x="28" y="172" width="364" height="2" rx="1" class="track" />
-  <rect x="28" y="172" width="115.8" height="2" rx="1" class="accent" />
-  <text x="28" y="192" class="label" font-size="13">Misterbooom</text>
-  <text x="338" y="192" text-anchor="end" class="mono muted" font-size="12">32 mins</text>
-  <text x="392" y="192" text-anchor="end" class="mono label" font-size="12">2.0%</text>
+  <rect x="28" y="172" width="72.8" height="2" rx="1" class="accent" />
+  <text x="28" y="192" class="label" font-size="13">GlassIslandsLinux</text>
+  <text x="338" y="192" text-anchor="end" class="mono muted" font-size="12">1 hr 41 mins</text>
+  <text x="392" y="192" text-anchor="end" class="mono label" font-size="12">6.1%</text>
   <rect x="28" y="198" width="364" height="2" rx="1" class="track" />
-  <rect x="28" y="198" width="7.2" height="2" rx="1" class="accent" />
-  <text x="28" y="218" class="label" font-size="13">Round-Display</text>
-  <text x="338" y="218" text-anchor="end" class="mono muted" font-size="12">10 mins</text>
-  <text x="392" y="218" text-anchor="end" class="mono label" font-size="12">0.7%</text>
+  <rect x="28" y="198" width="22.2" height="2" rx="1" class="accent" />
+  <text x="28" y="218" class="label" font-size="13">Misterbooom</text>
+  <text x="338" y="218" text-anchor="end" class="mono muted" font-size="12">32 mins</text>
+  <text x="392" y="218" text-anchor="end" class="mono label" font-size="12">2.0%</text>
   <rect x="28" y="224" width="364" height="2" rx="1" class="track" />
-  <rect x="28" y="224" width="2.4" height="2" rx="1" class="accent" />
-  <text x="28" y="244" class="label" font-size="13">shields</text>
-  <text x="338" y="244" text-anchor="end" class="mono muted" font-size="12">1 min</text>
-  <text x="392" y="244" text-anchor="end" class="mono label" font-size="12">0.1%</text>
+  <rect x="28" y="224" width="7.1" height="2" rx="1" class="accent" />
+  <text x="28" y="244" class="label" font-size="13">Round-Display</text>
+  <text x="338" y="244" text-anchor="end" class="mono muted" font-size="12">10 mins</text>
+  <text x="392" y="244" text-anchor="end" class="mono label" font-size="12">0.6%</text>
   <rect x="28" y="250" width="364" height="2" rx="1" class="track" />
-  <rect x="28" y="250" width="2.0" height="2" rx="1" class="accent" />
+  <rect x="28" y="250" width="2.3" height="2" rx="1" class="accent" />
 
   <text x="448" y="114" class="kpi-title">EDITORS (7D)</text>
-  <text x="448" y="140" class="label" font-size="13">Firefox</text>
-  <text x="718" y="140" text-anchor="end" class="mono muted" font-size="12">14 hrs 29 mins</text>
-  <text x="772" y="140" text-anchor="end" class="mono label" font-size="12">52.8%</text>
+  <text x="448" y="140" class="label" font-size="13">Rider</text>
+  <text x="718" y="140" text-anchor="end" class="mono muted" font-size="12">16 hrs 25 mins</text>
+  <text x="772" y="140" text-anchor="end" class="mono label" font-size="12">59.2%</text>
   <rect x="448" y="146" width="324" height="2" rx="1" class="track" />
-  <rect x="448" y="146" width="171.0" height="2" rx="1" class="accent" />
-  <text x="448" y="166" class="label" font-size="13">Rider</text>
-  <text x="718" y="166" text-anchor="end" class="mono muted" font-size="12">12 hrs 57 mins</text>
-  <text x="772" y="166" text-anchor="end" class="mono label" font-size="12">47.2%</text>
+  <rect x="448" y="146" width="191.9" height="2" rx="1" class="accent" />
+  <text x="448" y="166" class="label" font-size="13">Firefox</text>
+  <text x="718" y="166" text-anchor="end" class="mono muted" font-size="12">11 hrs 18 mins</text>
+  <text x="772" y="166" text-anchor="end" class="mono label" font-size="12">40.8%</text>
   <rect x="448" y="172" width="324" height="2" rx="1" class="track" />
-  <rect x="448" y="172" width="153.0" height="2" rx="1" class="accent" />
+  <rect x="448" y="172" width="132.1" height="2" rx="1" class="accent" />
 </svg>
